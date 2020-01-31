@@ -7,6 +7,7 @@ h2 {
     display: inline;
     font-weight: bold;
     position: absolute;
+    columns: blue;
     top: 20px;
     left: 400px;
     list-style: none;
@@ -16,14 +17,9 @@ h2 {
     outline: 3px dashed yellow;
     border-radius: 20px;
     font-size: 40px;
-
-body{
-    background-color: red;
-}
-
-h2 {
-    text-align: right;
     text-emphasis-color: blue;
     border: 50px black;
 
+body{
+    background-color: red;
 }
