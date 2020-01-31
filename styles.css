@@ -1,3 +1,22 @@
+
+h1 {
+    color: red;
+}
+
+h2 {
+    display: inline;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+    left: 400px;
+    list-style: none;
+    color: black;
+    background-color: white;
+    border: 1px solid pink;
+    outline: 3px dashed yellow;
+    border-radius: 20px;
+    font-size: 40px;
+
 body{
     background-color: red;
 }
@@ -6,4 +25,5 @@ h2 {
     text-align: right;
     text-emphasis-color: blue;
     border: 50px black;
+
 }
