@@ -1,3 +1,7 @@
-group = ["Paul", "Bita", "Blake", "Joshua"]
+function groups() {
 
-console.log(group)
+    group = ["Paul", "Bita", "Blake", "Joshua"]
+
+    return group;
+}
+console.log(groups());
