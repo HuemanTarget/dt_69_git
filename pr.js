@@ -10,3 +10,12 @@ function group() {
 
 }
 group();
+
+function groups() {
+
+    group = ["Paul", "Bita", "Blake", "Joshua"]
+
+    return group;
+}
+console.log(groups());
+master
