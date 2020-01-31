@@ -1,3 +1,4 @@
+
 h1 {
     color: red;
 }
@@ -15,4 +16,14 @@ h2 {
     outline: 3px dashed yellow;
     border-radius: 20px;
     font-size: 40px;
+
+body{
+    background-color: red;
+}
+
+h2 {
+    text-align: right;
+    text-emphasis-color: blue;
+    border: 50px black;
+
 }
